@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nonhuman1</folder>
+	<filename>img (122).jpg</filename>
+	<path>F:\NITD\Project\Images\nonhuman1\img (122).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>707</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nonhuman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>105</ymin>
+			<xmax>505</xmax>
+			<ymax>882</ymax>
+		</bndbox>
+	</object>
+</annotation>
