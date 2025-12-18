@@ -1,6 +1,5 @@
 # pedestrian-detection
 Benchmarking HOG, CNN, ViT, and SAM2 Approaches on the PnPLO Pedestrian Dataset
-# Pedestrian Detection Benchmarking Scripts
 
 This repository contains four standalone benchmarking scripts used to evaluate and compare pedestrian detection models on the **PnPLO dataset** (Person vs. Person-Like Objects). The benchmarks focus on robustness to false positives from statues, mannequins, and other human-like non-pedestrians.
 
