@@ -114,5 +114,5 @@ Sonal Bhatia, Yash Thakkar @ Princeton University
 ## Authors
 
 - **Sonal Bhatia** — MAE + CS + Robotics, Princeton University  
-- **Yash Thakkar** — Computer Science, Princeton University  
+- **Yash Thakkar** — Computer Science + Math + Robotics, Princeton University  
 
