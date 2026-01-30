@@ -13,6 +13,13 @@ Each script computes consistent evaluation metrics including precision, recall, 
 
 ---
 
+## 📄 Full Report
+
+[![View the full report](preview.png)](written_report.pdf)
+
+*Click the preview to open the full PDF.*
+
+
 ## Execution Environment
 
 **Note:** These scripts were designed to run in **Google Colab** and may require minor path or dependency adjustments for local execution.
